@@ -1,4 +1,14 @@
 
+## PowerPoint Generator: Your Gateway to Effortless Presentations 🚀
+
+Dive into the ease of presentation creation with PowerPoint Generator, a smart web application crafted to automate 
+PowerPoint presentations! 🌟 
+This project is ripe for growth and eager for your contributions. Let's enhance its capability together! 😊
+
+## Demo Highlights 🎬
+
+https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/82d98c7a-0244-4fed-8f6b-f6c994fd69e3
+
 
 ## Table of Contents 📋
 

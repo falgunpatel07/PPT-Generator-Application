@@ -264,10 +264,4 @@ After registering, the API key is automatically generated for you.
 
 
 
-## License 📄
-
-This project is licensed under the terms of the MIT license.
-
-
-
 
